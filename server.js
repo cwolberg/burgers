@@ -17,10 +17,11 @@ var exphbs = require("express-handlebars");
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
+/*
 app.get("/", function(req, res) {
   res.json(path.join(__dirname, "views/index.html"));
 });
-
+*/
 
 var routes = require("./controllers/burgers_controllers.js");
 
