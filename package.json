@@ -1,5 +1,5 @@
 {
-  "name": "nodeexpresshandlebars",
+  "name": "burgers",
   "version": "1.0.0",
   "description": "adds burgers and devours them",
   "main": "server.js",
