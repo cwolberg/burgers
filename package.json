@@ -19,11 +19,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cwolberg/burger.git"
+    "url": "git+https://github.com/cwolberg/burgers.git"
   },
   "bugs": {
-    "url": "https://github.com/cwolberg/burger/issues"
+    "url": "https://github.com/cwolberg/burgers/issues"
   },
-  "homepage": "https://github.com/cwolberg/burger#readme"
+  "homepage": "https://github.com/cwolberg/burgers#readme"
 }
 
